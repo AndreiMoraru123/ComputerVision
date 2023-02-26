@@ -1,2 +1,2 @@
 # ComputerVision
-Repo containing image processing, machine learning and conv nets.
+Repo containing classic CV methods, image processing, machine learning and conv nets.
